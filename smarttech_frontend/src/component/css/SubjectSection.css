@@ -1,0 +1,119 @@
+@media(max-width:1286px){
+
+    #Sections{
+        margin-top:2%;        
+    }
+    #titleSection{
+        margin-top: 2%;
+        font-size: 18px;
+    }
+    #titleSlogan{
+        font-size: 22px;
+    }
+    #Cards{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+    }
+}
+@media(max-width:1196px){
+    #Sections{
+        margin-top:10%;        
+    }
+    #titleSection{
+        font-size: 17px;
+    }
+    #titleSlogan{
+        font-size: 20px;
+    }
+    #Cards{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+
+}
+
+
+@media(max-width:1114px){
+    #Sections{
+        margin-top:10%;        
+    }
+    #titleSection{
+        font-size: 17px;
+    }
+    #titleSlogan{
+        font-size: 20px;
+    }
+    #Cards{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+}
+
+
+@media(max-width:1000px){
+    #Sections{
+        margin-top:55%;        
+    }
+    #titleSection{
+        font-size: 17px;
+    }
+    #titleSlogan{
+        font-size: 20px;
+    }
+    #Cards{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+}
+
+
+
+
+@media(max-width:807.20px){
+    #Sections{
+        margin-top:65%;        
+    }
+    #titleSection{
+        font-size: 17px;
+    }
+    #titleSlogan{
+        font-size: 20px;
+    }
+    #Cards{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+}
+
+@media(max-width:784px){
+    #Sections{
+        margin-top:88%;        
+    }
+    #titleSection{
+        font-size: 17px;
+    }
+    #titleSlogan{
+        font-size: 20px;
+    }
+    #Cards{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+}
+
+
+
+@media(max-width:634px){
+    #Sections{
+       display: none;
+          
+    }
+  
+
+}
+
+
